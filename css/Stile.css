@@ -1,0 +1,7 @@
+body{margin:0;font-family:sans-serif;}
+
+/*Lista desplegable*/
+@media(max-width){header label{display:block;}.menu{position:absolute;background:#ffffff;
+width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:column;}.menu li
+{border-top:1% solid #fff;}#botmen:checked - .menu{margin:0;}}
+.colum1{background-color:#30697d;height:17%;}
