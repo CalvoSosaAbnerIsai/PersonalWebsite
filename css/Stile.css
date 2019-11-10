@@ -4,4 +4,13 @@ body{margin:0;font-family:sans-serif;}
 @media(max-width){header label{display:block;}.menu{position:absolute;background:#ffffff;
 width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:column;}.menu li
 {border-top:1% solid #fff;}#botmen:checked - .menu{margin:0;}}
-.colum1{background-color:#30697d;height:17%;}
+.colum1{background-color:#30697d;height:1022px;}
+.colum2{background-color:#ffffff;height:700px;display: inline-block;}
+#Img1{width:28%;height:21%;padding-top:4%;padding-left:15%;}
+
+/*Estilo de letra*/
+.h1{font-size:18px;text-decoration:none;font-family: 'PT Sans', sans-serif;}
+.h2{font-size:18px;text-decoration:none;font-family: 'PT Sans', sans-serif;}
+.h3{font-size:18px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#737373;padding-bottom:0.8%;}
+.h4{font-size:14px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#7f7f7f;padding-bottom:0.8%;}
+.h5{font-size:14px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#7f7f7f;}
