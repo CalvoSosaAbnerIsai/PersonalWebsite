@@ -1,0 +1,22 @@
+body{margin:0;font-family:sans-serif;}
+
+/*Lista desplegable*/
+@media(max-width){header label{display:block;}.menu{position:absolute;background:#ffffff;
+width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:column;}.menu li
+{border-top:1% solid #fff;}#botmen:checked - .menu{margin:0;}}
+.colum1{background-color:#30697d;height:1022px;}
+.palabra{padding-top:23%;}
+.lista{list-style: none;padding-left:37.2%;}
+.lista li{display: inline-block;}
+.lista li a{text-decoration: none;color:#ffffff;font-size:17px;font-family: 'PT Sans', sans-serif;padding-right:6px;}
+
+.colum2{background-color:#ffffff;height:700px;display: inline-block;}
+/*Imagenes*/
+.imag{display:inline;}
+#Img1{width:28%;height:21%;padding-top:4%;padding-left:15%;}
+
+/*Estilo de letra*/
+.h1{font-size:60px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#ffffff;}
+.h2{font-size:18px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#737373;padding-bottom:0.8%;}
+.h3{font-size:14px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#7f7f7f;padding-bottom:0.8%;}
+.h4{font-size:14px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#7f7f7f;}
