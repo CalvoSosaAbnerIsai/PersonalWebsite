@@ -22,36 +22,45 @@ width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:
 .h4{font-size:14px;text-decoration:none;font-family: 'PT Sans', sans-serif;color:#7f7f7f;}
 /*cuadro 1*/
 #Cuadro{background:#e9eced;width: 100%;padding:100px;padding-bottom: 100px;}
-.h5{list-style: none;font-size: 34px;padding-left:440px;padding-top:46px;padding-bottom:30px;}
-.h6{font-size:15px;color: #000000;font-family: 'PT Sans', sans-serif; padding-left: 440px;}
+.h5{list-style: none;font-size: 34px;padding-left:430px;padding-top:46px;padding-bottom:30px;}
+.h6{font-size:14px;color: #000000;font-family: 'PT Sans', sans-serif; padding-left: 440px;}
 .h6{display:inline-block;float:left;padding-bottom: 50px}
 
 /*botones*/
-#boton{margin: 4px;margin-left:120px;border:none;background-color:#30cff7;width: 220px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
-#boton2{margin:4px;border:none;background-color:#9b23f7;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
-#boton3{margin:4px;border:none;background-color:#150d62;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
-#boton4{margin:4px;border:none;background-color:#c70931;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
+#boton{margin: 4px;margin-left:110px;border:none;background-color:#10c6fc;width: 220px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
+#boton2{margin:4px;border:none;background-color:#835aeb;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
+#boton3{margin:4px;border:none;background-color:#002453;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
+#boton4{margin:4px;border:none;background-color:#ff2b4a;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
 
 /*cuadro2*/
-#cuadro2{background:#2e6879;width: 100%;padding:100px;padding-bottom: 450px;}
+#cuadro2{background:#2e6879;width: 100%;padding:100px;padding-bottom: 350px;}
+#cuadro2{display: inline-flex;}
+
 /*textos*/
-.h7{text-decoration: none; color:  #ffffff;font-size: 25px;padding-top:55px;padding-left: 160px }
-.h8{text-decoration: none; color:  #ffffff;font-size: 20px;padding-top:55px;padding-left: 160px}
-.h9{text-decoration: none; color:  #ffffff;font-size: 15px;padding-top:15px;padding-left: 160px}
-.h10{text-decoration: none; color:  #ffffff;font-size: 15px;padding-top:10px;padding-left: 160px}
+.h7{text-decoration: none; color:  #ffffff;font-size: 25px;padding-top:55px;padding-left:4.3%}
+.h8{text-decoration: none; color:  #f3f3f4;font-size: 14px;padding-top:10px;padding-left:4.3%}
+.h9{text-decoration: none; color:  #bebec6;font-size: 12px;padding-top:15px;padding-left:4.3%}
+.h10{text-decoration: none; color: #acadb7;font-size: 11px;padding-top:10px;padding-left:4.3%}
+.cuadrado{margin:2% 0% 3.5% 13%;background-color: #4e637d;border: solid color: white;width:36%;}
+.cuadrado2{margin:2% 0% 3.5% 1%;background-color: #4e637d;border: solid color: white;width:36%;}
+
 /*--------------------------------------------------------QUINTO CUADRO-------------------------------------------------*/
-#Content1{
-    padding-left: 440px;
-    margin-top: 100px;
-    background-color: #ffffff;
-}
-#Content1 .row{
-    padding-bottom: 40px;
-}
+
+#Content1{background:#e9eced;width: 100%;padding-bottom: 100px;height:950px;}
+.h11{list-style: none;font-size: 34px;padding-left:440px;padding-top:46px;padding-bottom:30px;}
+.h12{font-size:15px;color: #000000;font-family: 'PT Sans', sans-serif; padding-left: 440px;}
+.h12{display:inline-block;float:left;padding-bottom: 50px}
+.partearriba{display: inline-flex;}
+.parteabajo{display: inline-flex;}
+/*botones*/
+#boton5{border:none;background-color:#30cff7;width: 282px;height: 270px;text-decoration: none; color: #ffffff;}
+#boton6{margin:0 15px 15px 15px;border:none;background-color:#9b23f7;width: 282px;height: 270px;text-decoration: none; color: #ffffff;}
+#boton7{margin:0 15px 15px 0;border:none;background-color:#150d62;width: 282px;height: 270px;text-decoration: none; color: #ffffff;}
+#boton8{border:none;background-color:#c70931;width: 282px;height: 270px;text-decoration: none; color: #ffffff;}
+#boton9{margin:0;border:none;background-color:#9b23f7;width: 579px;height: 270px;text-decoration: none; color: #ffffff;}
+#boton10{margin:0 10px 0 12px;border:none;background-color:#150d62;width: 282px;height: 270px;text-decoration: none; color: #ffffff;}
+#boton11{border:none;background-color:#c70931;width: 282px;height: 270px;text-decoration: none; color: #ffffff;}
+
 /*--------------------------------------------------------SEXTO CUADRO------------------------------------------------------*/
-#Content2{
-	margin-top: 100px;
-	padding-right: 500px;
-	padding-left: 215px;
-	background-color: #64cbc0;
-}
+
+#Content2{padding-right: 500px;padding-left: 215px;background-color: #64cbc0;height:704px;}
