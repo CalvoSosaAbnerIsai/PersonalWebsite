@@ -33,16 +33,23 @@ width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:
 #boton4{margin:4px;border:none;background-color:#ff2b4a;width: 230px;height: 220px;padding-top: 65px;text-decoration: none; color: #ffffff;}
 
 /*cuadro2*/
-#cuadro2{background:#2e6879;width: 100%;padding:100px;padding-bottom: 350px;}
+#cuadro2{background:#2e6879;width: 100%;padding:100px;padding-bottom:150px;}
 #cuadro2{display: inline-flex;}
 
 /*textos*/
-.h7{text-decoration: none; color:  #ffffff;font-size: 25px;padding-top:55px;padding-left:4.3%}
+.h7{text-decoration: none; ;color:  #ffffff;font-size: 25px;padding-top:55px;padding-left:4.3%}
 .h8{text-decoration: none; color:  #f3f3f4;font-size: 14px;padding-top:10px;padding-left:4.3%}
 .h9{text-decoration: none; color:  #bebec6;font-size: 12px;padding-top:15px;padding-left:4.3%}
 .h10{text-decoration: none; color: #acadb7;font-size: 11px;padding-top:10px;padding-left:4.3%}
 .cuadrado{margin:2% 0% 3.5% 13%;background-color: #4e637d;border: solid color: white;width:36%;}
 .cuadrado2{margin:2% 0% 3.5% 1%;background-color: #4e637d;border: solid color: white;width:36%;}
+/*cuadro3*/
+#cuadro3{background:#2e6879;width: 100%;padding:100px;padding-bottom:150px;}
+#cuadro3{display: inline-flex;}
+.cuadrado3{margin:2% 0% 13% 1%;background-color: #4e637d;border: solid color: white;width:36%;}
+.cuadrado3{display: inline-grid;}
+#boton12{margin: 4px;width:180px;margin-left: 200px;height:40px;border:none;background-color:#ff2b4a;text-decoration: none; color: #ffffff;}
+.cuadrado4{margin:2% 0% 13% 1%;background-color: #4e637d;border: solid color: white;width:36%;}
 
 /*--------------------------------------------------------QUINTO CUADRO-------------------------------------------------*/
 
