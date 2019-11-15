@@ -51,12 +51,11 @@ width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:
 #boton12{margin: 4px;width:180px;margin-left: 200px;height:40px;border:none;background-color:#ff2b4a;text-decoration: none; color: #ffffff;}
 .cuadrado4{margin:2% 0% 13% 1%;background-color: #4e637d;border: solid color: white;width:36%;}
 
-/*--------------------------------------------------------QUINTO CUADRO-------------------------------------------------*/
+/*--QUINTO CUADRO--	*/
 
 #Content1{background:#ffffff;width:95%;height:950px;}
-.h11{list-style: none;font-size: 34px;padding-left:440px;padding-top:46px;padding-bottom:30px;}
-.h12{font-size:15px;color: #000000;font-family: 'PT Sans', sans-serif; padding-left: 440px;}
-.h12{display:inline-block;float:left;padding-bottom: 50px}
+.h1{font-size:34px;padding-left:440px;padding-top:126px;}
+.h2{font-size:15px;padding-left:440px;padding-bottom:41px;}
 .partearriba{display: inline-flex;padding-left:13%;}
 .partebaja{display: inline-flex;padding-left:13%;}
 /*botones*/
@@ -68,6 +67,11 @@ width:70%;height:70%;margin-left:-70%;transition:all 0.5s;}.menu{flex-direction:
 #boton10{margin:0 15px 0 15px;border:none;background-color:#002453;width: 230px;height: 220px;text-decoration: none; color: #ffffff;}
 #boton11{border:none;background-color:#ff2b4a;width: 230px;height: 220px;text-decoration: none; color: #ffffff;}
 
-/*--------------------------------------------------------SEXTO CUADRO------------------------------------------------------*/
-
-#Content2{padding-right: 500px;padding-left: 215px;background-color: #64cbc0;height:704px;}
+/*--SEXTO CUADRO--*/
+#Content2{background:#64cbc0;height:705px;}
+#parte1{padding-left:215px;padding-top:140px;}
+p{padding-top:51px;}
+#parte2{padding-left:102px;}
+#Imagen2{padding-top:55px;}
+#imag2{padding-left:55px;}
+#texto{padding-left:55px;}
